@@ -267,7 +267,7 @@
                 </statOffsets>
             </li>
             <li>
-                <label>Big Cock</label>
+                <label>Big</label>
                 <minSeverity>0.8</minSeverity>
                 <statOffsets>
                     <SocialImpact>.02</SocialImpact>
@@ -293,6 +293,9 @@
         <defName>LifeStages_Foreskin</defName>
         <label>Foreskin</label>
         <stages>
+            <li>
+                <label>Severe Phimosis</label>
+            </li>
             <li>
                 <label>Tight</label>
             </li>
